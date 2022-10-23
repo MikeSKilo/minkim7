@@ -3,9 +3,9 @@ I am a passionate Software Engineer
 
 | Skills | Samples | 
 | ------ | ------- |
-| ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | ☑️ | 
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | https://github.com/minkim7/Dev/tree/main/react-samples | 
-| ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | https://github.com/minkim7/Dev/tree/main/sql | 
+| ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | https://github.com/minkim7/MiVet/tree/main/dotnet | 
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | https://github.com/minkim7/MiVet/tree/main/react | 
+| ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | https://github.com/minkim7/MiVet/tree/main/sql | 
 
 
 
