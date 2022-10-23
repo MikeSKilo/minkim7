@@ -6,7 +6,7 @@
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ☑️ | 
 | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ☑️ | 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkim7&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **minkim7/minkim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
