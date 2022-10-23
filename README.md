@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello👋
+I am a passionate Software Engineer
 
 | Skills | Samples | 
 | ------ | ------- |
