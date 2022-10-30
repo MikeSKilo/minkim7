@@ -2,7 +2,9 @@
 I am a passionate Software Engineer
 
  [Portfolio](https://minkim7.netlify.app/)
+ 
  [Resume.pdf](https://drive.google.com/file/d/19Kia6-vbwzwc8SkPLHbE71bbRIH24Pnb/view?usp=share_link)
+ 
  [Resume.docx](https://docs.google.com/document/d/1r4_088__J2oipbQAD01XhF_gu58HyzWZ/edit?usp=share_link&ouid=102625237965844126010&rtpof=true&sd=true)
 
 | Skills | Samples | 
