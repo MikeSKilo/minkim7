@@ -1,5 +1,5 @@
 ### Hello👋
-I am a passionate Software Engineer
+I am a passionate Software Engineer.
 
  [Portfolio](https://minkim7.netlify.app/)
  
